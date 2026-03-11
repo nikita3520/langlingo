@@ -12,5 +12,12 @@ Langlingo — это приложение для изучения иностра
 ## 4. История. Возможность просмотра пройденных уроков.
 ## 5. Тренировки. Повторение пройденного материала.
 
+
 # Mind Map
 <img width="2001" height="1059" alt="Mindmap" src="https://github.com/user-attachments/assets/3bfd99d8-c8bf-4a4b-b896-618ee9d1badc" />
+
+
+## 🛠️ Технологии
+1. HTML
+2. CSS
+3. JavaScript
